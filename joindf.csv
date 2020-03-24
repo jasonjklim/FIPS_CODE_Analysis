@@ -1,0 +1,52 @@
+STATE,STNAME,count_County,count_Place,Total FIPS CODE
+48,Texas,254,1220,1474
+17,Illinois,102,1298,1400
+42,Pennsylvania,67,1013,1080
+29,Missouri,115,942,1057
+19,Iowa,99,943,1042
+39,Ohio,88,931,1019
+27,Minnesota,87,853,940
+20,Kansas,105,627,732
+13,Georgia,159,538,697
+55,Wisconsin,72,601,673
+40,Oklahoma,77,589,666
+36,New York,62,599,661
+18,Indiana,92,567,659
+37,North Carolina,100,551,651
+31,Nebraska,93,529,622
+26,Michigan,83,533,616
+05,Arkansas,75,501,576
+06,California,58,482,540
+21,Kentucky,120,416,536
+01,Alabama,67,461,528
+12,Florida,67,413,480
+47,Tennessee,95,345,440
+38,North Dakota,53,357,410
+28,Mississippi,82,298,380
+46,South Dakota,66,312,378
+22,Louisiana,64,304,368
+51,Virginia,133,228,361
+34,New Jersey,21,324,345
+08,Colorado,64,271,335
+53,Washington,39,281,320
+45,South Carolina,46,271,317
+54,West Virginia,55,232,287
+49,Utah,29,247,276
+41,Oregon,36,240,276
+16,Idaho,44,200,244
+30,Montana,56,129,185
+24,Maryland,24,157,181
+02,Alaska,29,149,178
+35,New Mexico,33,105,138
+56,Wyoming,23,99,122
+04,Arizona,15,91,106
+25,Massachusetts,14,54,68
+10,Delaware,3,57,60
+50,Vermont,14,42,56
+23,Maine,16,23,39
+09,Connecticut,8,30,38
+32,Nevada,17,19,36
+33,New Hampshire,10,13,23
+44,Rhode Island,5,8,13
+15,Hawaii,5,1,6
+11,District of Columbia,1,1,2
